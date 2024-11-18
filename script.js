@@ -1,9 +1,9 @@
-let title = 'урок 2';
-let screens = "Простые, Сложные, Интерактивные";
-let screenPrice = 75879.6767587;
-let rollback = (Math.random() * 100) + 1;
-let fullPrice = 500000;
-let adaptive = true;
+const title = 'урок 2';
+const screens = "Простые, Сложные, Интерактивные";
+const screenPrice = 75879.6767587;
+const rollback = (Math.random() * 100) + 1;
+const fullPrice = 500000;
+const adaptive = true;
 
 
 console.log(title);
